@@ -1,4 +1,4 @@
-# beginner_projects
+# Beginner_projects
  Python Beginner Level Projects
 
 1. Number Guess Game
